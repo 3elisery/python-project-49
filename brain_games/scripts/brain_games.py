@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 
 def welcoming():
     print('Welcome to the Brain Games!')

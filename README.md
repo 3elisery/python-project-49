@@ -3,3 +3,5 @@
 
 ### Maintainability badge from CodeClimate
 [![Maintainability](https://api.codeclimate.com/v1/badges/ac1fab85624385228bd5/maintainability)](https://codeclimate.com/github/3elisery/python-project-49/maintainability)
+
+[![asciicast](https://asciinema.org/a/dzEZrLehVAxUVWNS9GW37tigg.svg)](https://asciinema.org/a/dzEZrLehVAxUVWNS9GW37tigg)
